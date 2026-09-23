@@ -62,8 +62,8 @@ div{
     margin-left: 50px;
     /*to delete the effect of div border above*/
     border: none;
-    border-bottom-width: 2px;
-    border-left-width: 5px;
+    border-bottom: 2px solid #FFFFFF;
+    border-left: 5px solid #FFFFFF;
 }
 
 /*WAVE have contrast problem?*/
@@ -72,8 +72,8 @@ div{
     text-align: left;
     margin-right: 50px;
     border: none;
-    border-right-width: 5px;
-    border-top-width: 2px;
+    border-right: 5px solid #FFFFFF;
+    border-top: 2px solid #FFFFFF;
 }
 
 /* to solve the contrast problem I change heading color from #C4C4C4 to #D6D6D6*/
@@ -92,8 +92,8 @@ div{
     text-align: right;
     margin-left: 50px;
     border: none;
-    border-bottom-width: 2px;
-    border-left-width: 5px;
+    border-bottom: 2px solid #FFFFFF;
+    border-left: 5px solid #FFFFFF;
 }
 
 .yellow p{
@@ -105,8 +105,8 @@ div{
     text-align: left;
     margin-right: 50px;
     border: none;
-    border-right-width: 5px;
-    border-top-width: 2px;
+    border-right: 5px solid #FFFFFF;
+    border-top: 2px solid #FFFFFF;
 }
 
 /* to solve the contrast problem I change paragraph color from #FFFFFF to #1C1C1C*/
